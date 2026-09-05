@@ -1,0 +1,9 @@
+pandas>=2.1
+numpy>=1.26
+pyomo>=6.7
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+highspy>=1.7
+pytest>=8.0
+# Optional commercial solvers: gurobipy, cplex

@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    volumes: ["./data:/app/data"]
+  web:
+    build: ./frontend
+    ports: ["3000:80"]
+    depends_on: [api]
