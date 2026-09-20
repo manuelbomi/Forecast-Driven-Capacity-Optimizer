@@ -91,3 +91,32 @@ A production version would obtain demand from a registered forecasting pipeline,
 ## Why this repository is useful as a tutorial
 
 The code keeps the optimization formulation small enough to understand from the README, but uses patterns that scale: explicit decision variables, objective function, hard constraints, solver abstraction, scenario inputs, API serving, frontend, containers and CI. This makes it suitable both for learning MILP and as a seed for a more complex planning service.
+
+
+---
+
+
+### Thank you for reading
+
+#### Please consider giving a star if you find the repo useful. Thank you.
+
+---
+
+### **AUTHOR'S BACKGROUND**
+### Author's Name:  Emmanuel Oyekanlu
+```
+Skillset:   I have experience spanning several years in data science, enterprise AI architecture and solutions, developing scalable enterprise data pipelines,
+enterprise solution architecture, architecting enterprise systems data and AI applications,
+software and AI solution design and deployments, data engineering, industrial intelligent vision systems, high performance computing (GPU, CUDA), machine learning,
+NLP, Agentic-AI and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud.
+
+I can be reached through: manuelbomi@yahoo.com
+
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
+
